@@ -1,4 +1,4 @@
-# shin-hihonkai-ferry
+# shin-nihonkai-ferry
 新日本海フェリーの自動予約
 
 - 9:00 実行
