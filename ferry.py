@@ -50,7 +50,7 @@ def job():
     departure.select_by_value(port_dep)
 
     arrival = Select(browser.find_element_by_name('arrivalCode'))
-    arrival.select_by_value('TMA')
+    arrival.select_by_value(port_arr)
 
     btn_departure_date = browser.find_element_by_id('imgDepartureDate')
     btn_departure_date.click()
